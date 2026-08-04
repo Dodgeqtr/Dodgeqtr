@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @Dodgeqtr
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 🛡️ Dodgeqtr
 
-<!---
-Dodgeqtr/Dodgeqtr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Config files for my GitHub profile.
+
+## 🌟 Overview
+This repository is fully structured and integrated with the **JOJO Sovereign Nucleus** (`http://127.0.0.1:9379`) and **OmniRoute Fleet** (`http://127.0.0.1:20128`).
+
+## 🏢 5 Business Slots Support
+- Real Estate (`real_estate`)
+- Business Processing (`processing`)
+- Garage (`garage`)
+- Legal (`legal`)
+- Accounting (`accounting`)
+
+## ⚙️ Setup & Execution
+```bash
+# Standard setup
+cp .env.example .env
+```
+
+© 2026 Sovereign Al-Wakra Fort Ecosystem.
